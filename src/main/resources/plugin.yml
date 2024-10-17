@@ -1,0 +1,5 @@
+name: wit
+version: '0.0.1-Damo'
+main: hn.blacknight0981.wit.Wit
+api-version: '1.21'
+authors: [ HN ]
