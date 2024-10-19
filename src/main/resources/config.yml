@@ -1,0 +1,8 @@
+language: zh_tw
+
+# 讀取 距離 預設: 5
+distance: 5
+
+# 原版方塊顯示
+# 更改後需重啟才生效
+vanilla: true
